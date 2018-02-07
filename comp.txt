@@ -1,7 +1,4 @@
 Added 1st line
 second line added
 added 3rd line
-added another
-
-
-some text from master branch
+Added some more stuff
